@@ -5,7 +5,7 @@
 <p>My LinkedIn Profile</p></a>
 <a href="https://www.youracclaim.com/users/mudasar-ahmad.4412309d/badges"><img align="center" height="30" src="https://raw.githubusercontent.com/mudasar187/mudasar187/master/acclaim.png">
 <p>My Certifications</p></a>
-
+<br>
 </div>
 <p align="center">
 💻 Consultant @ <a href="https://inmeta.no/">Inmeta Consulting AS</a> part of <a href="https://www.crayon.com/">Crayon Group</a>

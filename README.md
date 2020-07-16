@@ -7,8 +7,6 @@
 <p>My Certifications</p></a>
 
 </div>
-<br>
-<br>
 <p align="center">
 💻 Consultant @ <a href="https://inmeta.no/">Inmeta Consulting AS</a> part of <a href="https://www.crayon.com/">Crayon Group</a>
 </p>
@@ -21,7 +19,6 @@
 <p align='center'>
 <img align='center' src="https://rushter.com/counter.svg">
  </p>
- <br>
  <p align="center">
  <em>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."</em>
  </p>

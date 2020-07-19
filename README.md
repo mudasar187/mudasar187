@@ -2,9 +2,9 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mudasar-ahmad/"><img align="center" height="30" src="https://raw.githubusercontent.com/mudasar187/mudasar187/master/linkedin.png">
-<p>My LinkedIn Profile</p></a>
+<p>LinkedIn Profile</p></a>
 <a href="https://www.youracclaim.com/users/mudasar-ahmad.4412309d/badges"><img align="center" height="30" src="https://raw.githubusercontent.com/mudasar187/mudasar187/master/acclaim.png">
-<p>My Certifications</p></a>
+<p>Certifications Overview</p></a>
 <br>
 </div>
 <p align="center">

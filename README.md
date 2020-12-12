@@ -9,15 +9,11 @@
 
 ---
 
-<p align='center'>
-
- </p>
+ <p align="center">
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
 </a>
- <p align="center">
- <em>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."</em>
  </p>
 
  <img src="https://raw.githubusercontent.com/mudasar187/mudasar187/master/wave.png">

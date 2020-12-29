@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mudasar Ahmad</h1>
 
-- 💻 Consultant @ <a href="https://inmeta.no/">Inmeta Consulting AS</a> part of <a href="https://www.crayon.com/">Crayon Group</a>
-- ☁️ Cloud Engineer @ <a href="https://aws.amazon.com/">Amazon Web Service<a/>
+- 💻  Consultant @ <a href="https://inmeta.no/">Inmeta Consulting AS</a> part of <a href="https://www.crayon.com/">Crayon Group</a>
+- ☁️   Cloud Engineer @ <a href="https://aws.amazon.com/">Amazon Web Service<a/>
 - <a href="https://www.linkedin.com/in/mudasar-ahmad/">LinkedIn Profile</a>
 - Certifications Overview @ <a href="https://www.youracclaim.com/users/mudasar-ahmad.4412309d/badges">Acclaim</a>
 

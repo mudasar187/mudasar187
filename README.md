@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mudasar Ahmad Cheema</h1>
+<h1 align="center">👋 Hi, I'm Mudasar Ahmad Cheemaa</h1>
 
 
 - 💻 &nbsp; Consultant @ <a href="https://inmeta.no/">Inmeta Consulting AS</a> part of <a href="https://www.crayon.com/">Crayon Group</a>

@@ -2,7 +2,7 @@
 
 
 - 💻 &nbsp; Consultant @ <a href="https://www.knowit.no/">KnowIt @ Dataess</a>
-- 👨 &nbsp; <a href="https://www.linkedin.com/in/mudasar-ahmad/">LinkedIn Profile</a>
+- 👨 &nbsp; Profile @ <a href="https://www.linkedin.com/in/mudasar-ahmad/">LinkedIn</a>
 - 📃 &nbsp; Certifications @ <a href="https://www.credly.com/users/mudasar-ahmad-cheema.4412309d/badges">Credly</a>
 
 

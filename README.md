@@ -1,4 +1,4 @@
-q<h1 align="center">👋 Hi, I'm Mudasar Cheema</h1>
+<h1 align="center">👋 Hi, I'm Mudasar Cheema</h1>
 
 
 - 💻 &nbsp; Consultant @ <a href="https://www.knowit.no/">KnowIt @ Dataess</a>

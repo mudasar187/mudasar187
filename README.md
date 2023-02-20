@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Mudasar Cheema</h1>
+### :wave: Hello, I'm Mudasar Cheema
+- :computer: I’m working as a consultant @ [Knowit Dataess](https://www.knowit.no/). I´m based in Norway, oslo.
+- :watch: Watch enthusiast
+- :apple: Current OS **MacOS**
+- :heart: Open Source Software
+- 📫 How to reach me: mudasar_cheema@hotmail.com
 
-
-- 💻 &nbsp; Consultant @ <a href="https://www.knowit.no/">KnowIt @ Dataess</a>
-- 👨 &nbsp; Profile @ <a href="https://www.linkedin.com/in/mudasar-ahmad/">LinkedIn</a>
-- 📃 &nbsp; Certifications @ <a href="https://www.credly.com/users/mudasar-ahmad-cheema.4412309d/badges">Credly</a>
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mudasar-ahmad/)](https://www.linkedin.com/in/mudasar-ahmad/)
 ---
 
 

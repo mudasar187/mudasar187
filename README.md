@@ -1,5 +1,5 @@
 ### :wave: Hello, I'm Mudasar Cheema
-- :computer: I’m working as a consultant @ [Knowit Dataess](https://www.knowit.no/). I´m based in Norway, oslo.
+- :computer: I’m working as a consultant @ [Knowit Solutions Consulting AS](https://www.knowit.no/). I´m based in Norway, oslo.
 - :watch: Watch enthusiast
 - :apple: Current OS **MacOS**
 - :heart: Open Source Software

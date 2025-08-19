@@ -1,11 +1,11 @@
 ### :wave: Hello, I'm Mudasar Cheema
 - :round_pushpin: Based in Oslo, Norway
-- :office: I’m working as a consultant @ [Knowit Solutions Consulting AS](https://www.knowit.no/).
+- :office: Working as a consultant @ [Knowit Solutions Consulting AS](https://www.knowit.no/).
 - :apple: macOS/Linux
 - :heart: Open Source Software
 - :watch: Watch enthusiast
-- :family: proud father of twins
-- 📫 How to reach me: mudasar_cheema@hotmail.com
+- :family: Proud father of twins
+- 📫 Reach me @ mudasar_cheema@hotmail.com
 
 Experienced software developer passionate about creating resilient, accessible, and fault-tolerant solutions. I enjoy tackling complex problems and staying current with emerging technologies. Looking to grow in both technical expertise and leadership.
 

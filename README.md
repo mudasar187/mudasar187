@@ -16,7 +16,7 @@ Experienced software developer passionate about creating resilient, accessible, 
  <p align="center">
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   ❞</i>
+<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
  </p>
